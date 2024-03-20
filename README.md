@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitor Count](https://profile-counter.glitch.me/seekersman/count.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seekersman&layout=compact)](https://github.com/seekersman/github-readme-stats)
+
+![seekersman's GitHub stats](https://github-readme-stats.vercel.app/api?username=seekersman&show_icons=true&theme=tokyonight)
